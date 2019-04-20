@@ -1,0 +1,32 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.html",
+  "scripts": {
+    "test": "run watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/IdealAccount/testforjob.git"
+  },
+  "author": "Ruslan",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-cache": "^1.1.1",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-rimraf": "^0.2.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "imagemin-jpeg-recompress": "^6.0.0",
+    "imagemin-pngquant": "^7.0.0"
+  }
+}
